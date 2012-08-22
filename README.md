@@ -1,8 +1,12 @@
-[Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+[MLE+ Toolbox](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat) at Twitter.
+MLE+ is an open-source Matlab/Simulink toolbox for co-simulation with the
+whole-building energy simulator EnergyPlus (Fig. 1). It is designed for engineers
+and researchers who are familiar with Matlab and Simulink and want to use
+these software tools in building energy simulation. 
+[Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat) at Twitter.
 
 
 To get started, checkout http://getbootstrap.com!
