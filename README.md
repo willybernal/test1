@@ -1,21 +1,29 @@
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
+
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat) at Twitter.
 
+
 To get started, checkout http://getbootstrap.com!
+
+
 
 
 
 Quick start
 -----------
 
+
 Clone the repo, `git clone git://github.com/twitter/bootstrap.git`, or [download the latest release](https://github.com/twitter/bootstrap/zipball/master).
+
+
 
 
 
 Versioning
 ----------
+
 
 For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Bootstrap will be maintained under the Semantic Versioning guidelines as much as possible.
 
@@ -56,8 +64,11 @@ Read more detailed announcements, discussions, and more on [The Official Twitter
 
 
 
+
+
 Mailing list
 ------------
+
 
 Have a question? Ask on our mailing list!
 
@@ -70,9 +81,13 @@ http://groups.google.com/group/twitter-bootstrap
 IRC
 ---
 
+
+
 Server: irc.freenode.net
 
 Channel: ##twitter-bootstrap (the double ## is not a typo)
+
+
 
 
 
@@ -106,8 +121,11 @@ Please submit all pull requests against *-wip branches. If your unit test contai
 
 
 
+
+
 Authors
 -------
+
 
 **Mark Otto**
 
@@ -121,8 +139,11 @@ Authors
 
 
 
+
+
 Copyright and license
 ---------------------
+
 
 Copyright 2012 Twitter, Inc.
 
