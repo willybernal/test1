@@ -1,4 +1,4 @@
-[MLE+ Toolbox](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+[MLE+ Toolbox](http://twitter.github.com/bootstrap) [![Matlab](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
 
@@ -6,10 +6,10 @@ MLE+ is an open-source Matlab/Simulink toolbox for co-simulation with the
 whole-building energy simulator EnergyPlus (Fig. 1). It is designed for engineers
 and researchers who are familiar with Matlab and Simulink and want to use
 these software tools in building energy simulation. 
-[Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat) at Twitter.
+[Willy Bernal (http://mlab.seas.upenn.edu/) and [Truong Nghiem](http://mlab.seas.upenn.edu/) the University of Pennsylvania.
 
 
-To get started, checkout http://getbootstrap.com!
+To get started, checkout http://mlab.seas.upenn.edu/!
 
 
 
